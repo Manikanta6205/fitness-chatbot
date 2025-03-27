@@ -1,0 +1,6 @@
+{
+    "name": "John Doe",
+    "age": 25,
+    "diet": ["Oatmeal", "Chicken Breast", "Broccoli", "Brown Rice"],
+    "workout": ["Push-ups", "Squats", "Deadlifts", "Running"]
+}
