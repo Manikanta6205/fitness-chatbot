@@ -1,0 +1,38 @@
+{
+  "user": {
+    "name": "Manikanta",
+    "age": 21,
+    "gender": "Male",
+    "height_cm": 178,
+    "weight_kg": 72,
+    "BMI": 22.7,
+    "fitness_goal": "Lean muscle gain",
+    "workout_routine": {
+      "Monday": "Chest & Triceps",
+      "Tuesday": "Back & Biceps",
+      "Wednesday": "Cardio + Core",
+      "Thursday": "Legs",
+      "Friday": "Shoulders + Core",
+      "Saturday": "Active Recovery (light walk, stretching)",
+      "Sunday": "Rest"
+    },
+    "diet": {
+      "goal": "High protein, moderate carbs, low sugar",
+      "meals": [
+        "Oats with whey protein and banana",
+        "Boiled eggs / omelette",
+        "Grilled chicken or paneer with brown rice and salad",
+        "Dal, roti, and sabzi",
+        "Fruits and nuts for snacks",
+        "Whey protein post workout"
+      ],
+      "restrictions": "Avoid deep fried foods and sugary drinks"
+    },
+    "water_intake_liters_per_day": 3.5,
+    "sleep_schedule": "11 PM to 7 AM",
+    "supplements": ["Whey protein", "Creatine (optional)", "Multivitamins"],
+    "experience_level": "Intermediate",
+    "injuries": "None",
+    "motivation_quote": "No pain, no gain. Let's go! 💪"
+  }
+}
