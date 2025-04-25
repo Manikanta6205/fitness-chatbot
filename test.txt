@@ -1,0 +1,55 @@
+## 💬 Prompt Categories
+
+### 🏋️ Workouts
+1. *What workout should I do today?*
+2. *Can you give me a 30-minute leg workout for Thursday?*
+3. *How can I improve my push-up count in 2 weeks?*
+4. *I missed my Wednesday core session. Should I reschedule it or skip?*
+5. *Give me a stretching routine for active recovery.*
+
+---
+
+### 🥗 Diet & Nutrition
+6. *What should I eat post-workout today?*
+7. *Suggest a protein-rich vegetarian dinner.*
+8. *I’m craving sugar—what are some healthy alternatives?*
+9. *Can I have whey protein before bed?*
+10. *Is my diet plan okay for muscle gain or should I tweak anything?*
+
+---
+
+### 📅 Weekly Routine & Check-ins
+11. *Can you summarize my full weekly routine?*
+12. *It’s Sunday. Should I do anything or completely rest?*
+13. *How did I do this week? Can you rate my performance and give feedback?*
+14. *What’s the plan for next Monday?*
+
+---
+
+### 🧠 Knowledge & Tips
+15. *Why is sleep important for muscle recovery?*
+16. *What’s the difference between compound and isolation exercises?*
+17. *How does creatine help my training?*
+18. *What’s the ideal rep range for hypertrophy?*
+
+---
+
+### 💬 Motivation & Encouragement
+19. *I’m feeling lazy today. Motivate me to go to the gym.*
+20. *Remind me why I started this routine.*
+21. *Tell me a quote that fits today’s mood.*
+22. *Give me a daily affirmation to start strong.*
+
+---
+
+### 🚫 Troubleshooting
+23. *My lower back hurts after deadlifts. What should I do?*
+24. *I can’t sleep early even if I’m tired. Help?*
+25. *I’m sore from leg day. Should I work out or take a break?*
+
+---
+
+### 🎯 Goals & Progress
+26. *How do I track progress if my weight isn’t changing?*
+27. *Can you set me a goal for the next 4 weeks?*
+28. *What's a good challenge for me this week?*
